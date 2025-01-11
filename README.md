@@ -1,4 +1,9 @@
 ## Hi there 👋
+Here are a few stuff I have worked on:
+- https://syvesdh.github.io/09_ClockStopwatchApp-react-trial/
+- https://syvesdh.github.io/04_ToDoList-React-App-Trial/
+- https://syve-figthting-game.netlify.app/
+
 
 <!--
 **syvesdh/syvesdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
